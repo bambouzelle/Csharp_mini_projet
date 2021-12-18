@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "150GYORTQSypWkokqtH3j8vEwAfrvcc1580KiLLW+V2rN4X1WAurtOv9vUHvkx4KiJW8WO+mV3rBgLp/5Sse1Q==",
+  "dgSpecHash": "LAiM7vX9mbYoq8BvS9HFOqiIFdlEOdNix4XtWb1ev5e5VDapldTiyR5wB9sckT5fjs8rL20GcHf+VsFypsVnOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\felix\\source\\repos\\projet_csharp_2\\partage_test\\partage_test.csproj",
+  "projectFilePath": "C:\\Users\\felix\\Source\\Repos\\bambouzelle\\Csharp_mini_projet\\partage_test\\partage_test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\felix\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\felix\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
