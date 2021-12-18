@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "558f84bd-370b-4053-8f3e-4d8a0c484824": {
+      "ProjectGuid": "558f84bd-370b-4053-8f3e-4d8a0c484824",
+      "DisplayName": "projet_csharp_2",
+      "ColorIndex": 0
+    },
+    "c50f8fe6-659a-4c69-b75c-65fcd3c6d8d2": {
+      "ProjectGuid": "c50f8fe6-659a-4c69-b75c-65fcd3c6d8d2",
+      "DisplayName": "partage_test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
